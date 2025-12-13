@@ -3,9 +3,10 @@
 Hi 👋  
 I am a 2nd year engineering student learning programming and data science.
 
-## Languages
+## Language
 - Python
-- C
+- SQL
+
 
 ## Goals
 - Learn DSA
